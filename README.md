@@ -43,5 +43,5 @@ El sistema permite agregar productos, ver un resumen del carrito en un menú des
 
 ---
 
-- Hola, soy **Jorge Lagunas Aqueveque**, titulado de Informática y entusiasta del desarrollo web.  
+- Hola, soy **Jorge Lagunas Aqueveque**, titulado de Ingeniería en Informática y entusiasta del desarrollo web.  
 - Puedes ver más de mis proyectos en [GitHub](https://github.com/jorgeolnn)
